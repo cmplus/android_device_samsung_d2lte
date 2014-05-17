@@ -187,7 +187,7 @@
     </string-array>
 
      <!-- If this is true, key chords can be used to take a screen record on the device. -->
-    <bool name="config_enableScreenrecordChord">false</bool>
+    <bool name="config_enableScreenrecordChord">true</bool>
 
     <!-- List of regexpressions describing the interface (if any) that represent tetherable
          Wifi interfaces.  If the device doesn't want to support tethering over Wifi this
